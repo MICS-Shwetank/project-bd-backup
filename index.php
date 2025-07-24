@@ -36,8 +36,13 @@ foreach ($clients as $key => $client) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Magadh IT and Consultancy Services Pvt. Ltd. provides secure and reliable Database Backup Manager solutions. Safeguard your business data with advanced backup, recovery, and management services designed for enterprises in India.">
+    <meta name="keywords" content="Magadh IT, Database Backup Manager, data backup solutions, IT consultancy, secure data management, database recovery, business data protection, India IT services">
+    <meta name="author" content="Magadh IT and Consultancy Services Pvt. Ltd.">
+    <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🔒 Database Backup Manager</title>
+    <title>Magadh IT and Consultancy Services Pvt. Ltd. 🔒 Database Backup Manager</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="https://img.icons8.com/color/48/000000/database-backup.png" type="image/x-icon">
     <!-- Load jQuery first -->
