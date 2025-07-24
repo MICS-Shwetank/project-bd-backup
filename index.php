@@ -24,7 +24,6 @@ function checkDbConnection($host, $user, $pass, $db) {
         return ['status' => false, 'error' => $e->getMessage()];
     }
 }
-
 // Check connection status for each client
 foreach ($clients as $key => $client) {
     $result = checkDbConnection($client['hostname'], $client['username'], $client['password'], $client['database']);
